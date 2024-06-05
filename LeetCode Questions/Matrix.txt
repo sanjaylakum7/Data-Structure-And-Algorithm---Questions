@@ -1,0 +1,18 @@
+54. Spiral Matrix
+59. Spiral Matrix II
+73. Set Matrix Zeroes
+74. Search a 2D Matrix
+79. Word Search
+85. Maximal Rectangle
+240. Search a 2D Matrix II
+311. Sparse Matrix Multiplication
+378. Kth Smallest Element in a Sorted Matrix
+498. Diagonal Traverse
+542. 01 Matrix
+766. Toeplitz Matrix
+832. Flipping an Image
+885. Spiral Matrix III
+921. Minimum Add to Make Parentheses Valid (Note: Not a matrix question)
+934. Shortest Bridge
+1034. Coloring A Border
+1074. Number of Submatrices That Sum to Target

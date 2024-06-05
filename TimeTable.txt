@@ -1,0 +1,3 @@
+1. Consistently Solve One LeetCode Problem
+2. Do not overfocus on multiple things focus on expand your skills and learn javascript create projects
+3. Expand your spring boot skills and create projects with javascript

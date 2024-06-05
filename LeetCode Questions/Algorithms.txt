@@ -1,0 +1,73 @@
+Sorting Algorithms:
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
+7. Counting Sort        
+8. Radix Sort
+
+Searching Algorithms:
+1. Linear Search
+1. Binary Search
+1. Depth-First Search (DFS)
+1. Breadth-First Search (BFS)
+
+Graph Algorithms:
+1. Dijkstra's Algorithm
+1. Bellman-Ford Algorithm
+1. Floyd-Warshall Algorithm
+1. Prim's Algorithm
+1. Kruskal's Algorithm
+1. Topological Sorting
+
+Tree Algorithms:
+1. Binary Search Tree (BST)
+1. AVL Tree
+1. Red-Black Tree
+1. B-Tree
+1. Trie
+1. Huffman Coding
+1. Dynamic Programming (DP) Algorithms:
+1. Fibonacci Series
+1. Longest Common Subsequence (LCS)
+1. Knapsack Problem
+1. Matrix Chain Multiplication
+1. Coin Change Problem
+1. Longest Increasing Subsequence (LIS)
+
+Divide and Conquer Algorithms:
+1. Binary Search
+1. Merge Sort
+1. Quick Sort
+1. Closest Pair of Points
+
+Greedy Algorithms:
+1. Fractional Knapsack Problem
+1. Job Sequencing with Deadlines
+1. Dijkstra's Shortest Path Algorithm (when weights are non-negative)
+1. Prim's Algorithm (when weights are non-negative)
+
+Backtracking Algorithms:
+1. N-Queens Problem
+1. Sudoku Solver
+1. Hamiltonian Cycle
+1. Subset Sum Problem
+
+String Algorithms:
+1. Longest Common Substring
+1. Knuth-Morris-Pratt (KMP) Algorithm
+1. Rabin-Karp Algorithm
+1. Levenshtein Distance (Edit Distance)
+
+Hashing Algorithms:
+1. Hash Tables
+1. Hash Functions
+1. Collision Resolution Techniques (Chaining, Open Addressing)
+
+Miscellaneous:
+1. BFS and DFS for graphs and trees
+1. Topological sorting for directed acyclic graphs (DAGs)
+1. Strongly Connected Components (SCC)
+1. Minimum Spanning Tree (MST) algorithms like Kruskal's and Prim's
